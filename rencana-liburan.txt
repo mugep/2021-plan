@@ -1,6 +1,7 @@
 rencana liburan
 -jogja
   *tempo gelato
+  *taman sari
 -usa
  *LA
 -bali
