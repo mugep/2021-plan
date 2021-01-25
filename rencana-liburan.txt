@@ -3,6 +3,7 @@ rencana liburan
   *tempo gelato
   *taman sari
 -usa
- *LA
+  *LA
+  *NYC
 -bali
 -singapore
