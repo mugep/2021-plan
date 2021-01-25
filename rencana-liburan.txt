@@ -2,4 +2,6 @@ rencana liburan
 -jogja
   *tempo gelato
 -usa
+ *LA
 -bali
+-singapore
