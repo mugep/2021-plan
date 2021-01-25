@@ -1,7 +1,8 @@
 rencana liburan
 -jogja
   *tempo gelato
-  *gunung kidul
+  *taman sari
 -usa
- *NYC
+ *LA
 -bali
+-singapore
